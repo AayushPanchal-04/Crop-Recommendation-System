@@ -175,4 +175,5 @@ with st.sidebar:
     """)
     
     st.markdown("---")
-    st.markdown("**Made with ❤️ using Streamlit**")
+    st.markdown("**Made By Aayush panchal**")
+
